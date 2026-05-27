@@ -1,1 +1,2 @@
-Nothing needs to be added to .gitignore since the changes only include source files (.ipynb, .py) and an image file (.png), which should not be ignored according to the rules.
+*.ipynb_checkpoints
+**/.ipynb_checkpoints/*
