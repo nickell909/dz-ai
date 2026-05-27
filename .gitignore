@@ -1,0 +1,64 @@
+```
+# Jupyter notebooks
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg-info/
+.eggs/
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+.venv/
+.env
+.env.local
+.env.*
+env.bak
+venv.bak
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build outputs
+dist/
+build/
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.obj
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# Cache directories
+.mypy_cache/
+.pytest_cache/
+.nyc_output/
+coverage/
+```
